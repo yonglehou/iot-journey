@@ -38,6 +38,21 @@ Now they now have a few months to roll out a system to production.
 
 > TODO: Introduce the key characters/personas in the story and establish their perspectives. 
 
+-  Jana is a software architect. She plans the overall structure of an application. 
+	Her perspective is both practical and strategic. 
+	In other words, she considers not only what technical approaches are needed today, 
+	but also what direction a company needs to consider for the future. Jana has worked 
+	on projects that used the domain-driven design approach.
+
+	> ![Jana](media/PersonaJana.png) "It's not easy to balance the needs of the company, the users, the IT organization, the developers, and the technical platforms we rely on."
+
+-  Markus is a software developer who is new to the CQRS pattern.
+	He is analytical, detail-oriented, and methodical. 
+	He's focused on the task at hand, which is building a great application. 
+	He knows that he's the person who's ultimately responsible for the code. 
+
+	> ![Markus](media/PersonaMarkus.png) "I don't care what architecture you want to use for the application; I'll make it work."
+
 ## The Initial Release
 
 The engineering team has reviewed what was promised to the customer and they have established 
